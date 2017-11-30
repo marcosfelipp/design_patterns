@@ -1,5 +1,5 @@
 '''
-Implementation of File System
+Example: Implementation of File System
 '''
 
 from abc import ABCMeta, abstractmethod
@@ -13,7 +13,7 @@ class Component():
 
     @abstractmethod
     def add(self):
-
+        pass
     @abstractmethod
     def remove(self):
         pass
